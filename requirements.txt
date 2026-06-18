@@ -1,5 +1,8 @@
+streamlit
+streamlit-webrtc
 opencv-python
 deepface
+tensorflow
 tf-keras
-streamlit
 numpy
+av
