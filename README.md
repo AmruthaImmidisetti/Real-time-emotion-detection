@@ -68,7 +68,7 @@ Display Results in Browser
 ### Clone Repository
 
 ``` bash
-git clone <your-github-repository-url>
+git clone https://github.com/AmruthaImmidisetti/Real-time-emotion-detection.git
 cd emotion-detection
 ```
 
